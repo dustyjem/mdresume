@@ -1,18 +1,14 @@
 ---
 layout: cv
 title: Brigham Young's Resume
----
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
+---# Duke Ekenedilichukwu Okeke
+A software Engineering Student at Brigham Young University 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="eke19001@byui.edu">eke19001@byui.edu</a>
+| <a href="https://dustyjem.github.io/wdd230/final_project/index.html">My website</a>
+| <a href="https://www.linkedin.com/in/dukeokeke">LinkedIn</a>
+| <a href="https://github.com/dustyjem">GitHub</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
